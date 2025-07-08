@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "test_add01",
+    "Command": "C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug/test_add01.exe",
+    "Arguments": [],
+    "WorkingDirectory": "C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug",
+    "ProjectFile": "C:/Users/Administrator/Desktop/TestPrj_v01/CMakeLists.txt",
+    "LineNumber": 24,
+    "Environment": {},
+    "ExpectsFailure": false,
+    "PassRegularExpression": null,
+    "FailRegularExpression": null,
+    "TargetName": "test_add01.exe",
+    "TimeoutInMs": -1
+  },
+  {
+    "Name": "test_add02",
+    "Command": "C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug/test_add02.exe",
+    "Arguments": [],
+    "WorkingDirectory": "C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug",
+    "ProjectFile": "C:/Users/Administrator/Desktop/TestPrj_v01/CMakeLists.txt",
+    "LineNumber": 24,
+    "Environment": {},
+    "ExpectsFailure": false,
+    "PassRegularExpression": null,
+    "FailRegularExpression": null,
+    "TargetName": "test_add02.exe",
+    "TimeoutInMs": -1
+  }
+]

@@ -1,0 +1,38 @@
+Start testing: Jul 08 10:17 India Standard Time
+----------------------------------------------------------
+1/2 Testing: test_add01
+1/2 Test: test_add01
+Command: "C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug/test_add01.exe"
+Directory: C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug
+"test_add01" start time: Jul 08 10:17 India Standard Time
+Output:
+----------------------------------------------------------
+Running tests add01.... 
+[Passed] add(2,3) != 5 
+[Passed] add(-2,3) != 1 
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"test_add01" end time: Jul 08 10:17 India Standard Time
+"test_add01" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_add02
+2/2 Test: test_add02
+Command: "C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug/test_add02.exe"
+Directory: C:/Users/Administrator/Desktop/TestPrj_v01/out/build/x64-Debug
+"test_add02" start time: Jul 08 10:17 India Standard Time
+Output:
+----------------------------------------------------------
+Running tests add01.... 
+Finished tests add01....
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_add02" end time: Jul 08 10:17 India Standard Time
+"test_add02" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 08 10:17 India Standard Time
